@@ -1,0 +1,11 @@
+.shopGames{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+
+.oneGameDiv{
+    margin: 50px;
+}

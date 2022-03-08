@@ -1,0 +1,30 @@
+
+.searchContainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    z-index: 5;
+}
+
+.logo{
+    font-family: fantasy;
+    font-weight: bolder;
+    font-style: italic;
+    color: #18b999;
+    font-size: 100pt;
+    border-radius: 30pt;
+}
+
+.inputBar{
+    background-color: gray;
+    color: white;
+    margin-bottom: 100px;
+    width: 400px;
+    height: 20px;
+    border-radius: 10%;
+    margin-right: 5px;
+}
+
+.hoveredButton{
+    color: turquoise;
+}

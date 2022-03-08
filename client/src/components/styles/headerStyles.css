@@ -1,0 +1,33 @@
+
+.homeLogo{
+ color: rgb(11, 131, 119);   
+ font-family: fantasy;
+ margin-left: 30px;
+font-size: 30pt;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+
+} 
+
+.subHeader{
+    display: flex;
+}
+
+#headerCart{
+    position: relative;
+    right: 20px;
+    bottom: 10px;
+    overflow: visible;
+}
+#about{
+    margin-right: 50px;
+}
+
+.logbutton{
+    border-radius: 30%;
+    height: 30px;
+    margin-right: 30px;
+}

@@ -1,0 +1,14 @@
+.regForm{
+    text-align: center;
+    margin: auto;
+    border: 2px solid white;
+    width: 400px;
+    height: 400px;
+    padding: 30px;
+}
+
+.reg{
+    border: 1px solid white;
+    width: 100px;
+    margin: auto;
+}

@@ -1,0 +1,26 @@
+.infoContainer{
+    display: flex;
+}
+
+.gameImg{
+    margin-left: 30px;
+
+}
+
+.title{
+    margin-left: 30px;
+    font-size: 30pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.description{
+    margin-left: 30px;
+}
+
+.price{
+    margin-left: 30px;
+}
+
+.btn{
+    margin-left: 30px;
+}
